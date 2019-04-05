@@ -2,7 +2,7 @@
   "title": "Basic App",
   "identifier": "net.vplay.demos.BasicApp",
   "orientation": "auto",
-  "versioncode": 1,
-  "versionname": "1.0",
+  "versioncode": 11,
+  "versionname": "1.1",
   "stage": "test"
 }
